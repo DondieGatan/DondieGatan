@@ -12,6 +12,10 @@ Final-year Software Engineering student focused on full-stack web development, N
 A full-stack Flask app that OCR/PDF-parses a resume, scores it with NLP (skills, education, experience, formatting), simulates ATS screening, matches it against a job description, and tracks everything on an analytics dashboard.
 `Python` `Flask` `SQL Server` `NLTK` `PyMuPDF` `Tesseract OCR`
 
+**[TaskFlow](https://github.com/DondieGatan/taskflow-crud)**
+A task manager built as a clean demonstration of CRUD fundamentals — Express REST API with server-side validation, backed by SQLite, with a dependency-free HTML/CSS/JS frontend.
+`Node.js` `Express` `node:sqlite` `REST API`
+
 **[IBM HR Attrition Prediction](https://github.com/DondieGatan/hr-attrition-prediction)**
 Trained and compared Logistic Regression, Decision Tree, and Random Forest classifiers on the IBM HR dataset to predict employee attrition, using SMOTE for class imbalance and ROC-AUC/F1 for evaluation — then translated the feature importances into retention recommendations.
 `Python` `pandas` `scikit-learn` `imbalanced-learn`
@@ -19,7 +23,7 @@ Trained and compared Logistic Regression, Decision Tree, and Random Forest class
 ---
 
 #### 🛠️ Skills
-`Python` `JavaScript` `SQL` `Flask` `scikit-learn` `pandas` `NLTK` `SQL Server` `Git`
+`Python` `JavaScript` `SQL` `Flask` `Express` `scikit-learn` `pandas` `NLTK` `SQL Server` `Git`
 
 #### 📫 Reach me
 [dcgatan@gmail.com](mailto:dcgatan@gmail.com)
