@@ -12,6 +12,14 @@ Final-year Software Engineering student focused on full-stack web development, N
 A full-stack Flask app that OCR/PDF-parses a resume, scores it with NLP (skills, education, experience, formatting), simulates ATS screening, matches it against a job description, and tracks everything on an analytics dashboard.
 `Python` `Flask` `SQL Server` `NLTK` `PyMuPDF` `Tesseract OCR`
 
+**[Expense Tracker](https://github.com/DondieGatan/expense-tracker)**
+A personal expense manager in C# on ASP.NET Core MVC with EF Core against SQL Server — CRUD over logged expenses, category filtering, and a dashboard that rolls totals up by category.
+`C#` `ASP.NET Core MVC` `Entity Framework Core` `SQL Server`
+
+**[Library Management System](https://github.com/DondieGatan/library-management-system)**
+A Flask app for running a small library — book/member CRUD plus a borrow/return workflow that keeps available-copy counts and due dates consistent automatically.
+`Python` `Flask` `SQLite`
+
 **[TaskFlow](https://github.com/DondieGatan/taskflow-crud)**
 A task manager built as a clean demonstration of CRUD fundamentals — Express REST API with server-side validation, backed by SQLite, with a dependency-free HTML/CSS/JS frontend.
 `Node.js` `Express` `node:sqlite` `REST API`
@@ -23,7 +31,7 @@ Trained and compared Logistic Regression, Decision Tree, and Random Forest class
 ---
 
 #### 🛠️ Skills
-`Python` `JavaScript` `SQL` `Flask` `Express` `scikit-learn` `pandas` `NLTK` `SQL Server` `Git`
+`Python` `JavaScript` `C#` `SQL` `Flask` `Express` `ASP.NET Core` `scikit-learn` `pandas` `NLTK` `SQL Server` `Git`
 
 #### 📫 Reach me
 [dcgatan@gmail.com](mailto:dcgatan@gmail.com)
