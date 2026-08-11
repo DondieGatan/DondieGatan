@@ -2,7 +2,7 @@
 
 Final-year Software Engineering student focused on full-stack web development, NLP, and applied machine learning. I like taking messy real-world input — documents, HR records — and turning it into something structured and useful.
 
-**Portfolio:** [dondiegatan.github.io/dondiegatan-portfolio](https://dondiegatan.github.io/dondiegatan-portfolio) &nbsp;·&nbsp; **Email:** [dcgatan@gmail.com](mailto:dcgatan@gmail.com)
+**Portfolio:** [dondiegatan.github.io/dondiegatan-portfolio](https://dondiegatan.github.io/dondiegatan-portfolio) &nbsp;·&nbsp; **Email:** [dondiegodwin@gmail.com](mailto:dondiegodwin@gmail.com)
 
 ---
 
