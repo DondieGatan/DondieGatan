@@ -34,4 +34,4 @@ Trained and compared Logistic Regression, Decision Tree, and Random Forest class
 `Python` `JavaScript` `C#` `SQL` `Flask` `Express` `ASP.NET Core` `scikit-learn` `pandas` `NLTK` `SQL Server` `Git`
 
 #### 📫 Reach me
-[dcgatan@gmail.com](mailto:dcgatan@gmail.com)
+[dondiegodwin@gmail.com](mailto:dondiegodwin@gmail.com)
