@@ -1,4 +1,4 @@
-### Hi, I'm Dondie 👋
+### Hi, I'm Dondie
 
 Software Engineering graduate focused on full-stack web development, NLP, and applied machine learning. I like taking messy real-world input — documents, appointments, resumes — and turning it into something structured and useful.
 
@@ -6,7 +6,7 @@ Software Engineering graduate focused on full-stack web development, NLP, and ap
 
 ---
 
-#### 🔭 Featured projects
+#### Featured projects
 
 **[Floss Clinic](https://github.com/DondieGatan/floss)** — [Live](https://floss-beta.vercel.app)
 A dental clinic platform with conflict-safe appointment booking enforced at the database level, mandatory two-factor authentication, and a RAG chatbot grounded in the clinic's own documents. 332 tests, CI on every push.
@@ -30,8 +30,8 @@ An AI-assisted resume scoring platform — NLP-driven skill extraction, ATS-comp
 
 ---
 
-#### 🛠️ Skills
+#### Skills
 `Python` `JavaScript` `SQL` `C#` `Flask` `React` `React Native` `SQLAlchemy` `PostgreSQL` `Azure SQL` `n8n` `NLTK` `Git`
 
-#### 📫 Reach me
+#### Contact
 [dondiegodwin@gmail.com](mailto:dondiegodwin@gmail.com)
