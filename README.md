@@ -2,7 +2,7 @@
 
 Software Engineering graduate focused on full-stack web development, NLP, and applied machine learning. I like taking messy real-world input — documents, appointments, resumes — and turning it into something structured and useful.
 
-**Portfolio:** [dondiegatan.github.io/dondiegatan-portfolio](https://dondiegatan.github.io/dondiegatan-portfolio) &nbsp;·&nbsp; **LinkedIn:** [dondie-godwin-gatan](https://www.linkedin.com/in/dondie-godwin-gatan-6606622ba) &nbsp;·&nbsp; **Email:** [dondiegodwin@gmail.com](mailto:dondiegodwin@gmail.com)
+**Portfolio:** [dondiegatan.github.io/dondiegatan-portfolio](https://dondiegatan.github.io/dondiegatan-portfolio) &nbsp;·&nbsp; **LinkedIn:** [dondie-godwin-gatan](https://www.linkedin.com/in/dondie-godwin-gatan) &nbsp;·&nbsp; **Email:** [dondiegodwin@gmail.com](mailto:dondiegodwin@gmail.com)
 
 ---
 
