@@ -2,7 +2,7 @@
 
 Software Engineer focused on full-stack web development and applied AI. Microsoft Certified: Azure AI Apps and Agents Developer Associate (AI-103) and Azure AI Fundamentals (AI-901). I like taking messy real-world input — documents, appointments, resumes — and turning it into something structured and useful.
 
-Based in Sharjah, UAE. Open to on-site, hybrid, or remote Software Engineer and Full-Stack Developer roles.
+Based in Dubai, UAE. Open to on-site, hybrid, or remote Software Engineer and Full-Stack Developer roles.
 
 **Portfolio:** [dondiegatan.github.io/dondiegatan-portfolio](https://dondiegatan.github.io/dondiegatan-portfolio) &nbsp;·&nbsp; **Resume:** [download PDF](https://dondiegatan.github.io/dondiegatan-portfolio/assets/Dondie_Godwin_Gatan_CV.pdf) &nbsp;·&nbsp; **LinkedIn:** [dondie-godwin-gatan](https://www.linkedin.com/in/dondie-godwin-gatan) &nbsp;·&nbsp; **Email:** [dondiegodwin@gmail.com](mailto:dondiegodwin@gmail.com)
 
